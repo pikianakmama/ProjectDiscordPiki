@@ -1,0 +1,8 @@
+{
+    "token": "",//Discord bot Token
+    "channel": "",//Channel ID
+    "player": "",//Path Folder Players
+    "world": "",//Path Folder Worlds
+    "onlineplayer": "",//Online.txt file(Kalo ada)
+    "exegtps": ""//Server Enet
+}
